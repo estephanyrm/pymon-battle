@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# entornos virtuales (si se llegan a usar)
+venv/
+env/
+
+# archivos de sistema/editor
+.DS_Store
+.vscode/
+.idea/
